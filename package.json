@@ -1,0 +1,19 @@
+{
+  "name": "w-lib",
+  "version": "1.0.0",
+  "description": "Villela lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagnerbrenner/w-lib.git"
+  },
+  "author": "Wagner Brenner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wagnerbrenner/w-lib/issues"
+  },
+  "homepage": "https://github.com/wagnerbrenner/w-lib#readme"
+}
